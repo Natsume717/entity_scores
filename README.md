@@ -1,0 +1,2 @@
+# entity_scores
+predicateのentity_scoresに関するデータパックサンプルになります。
